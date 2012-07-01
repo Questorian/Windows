@@ -11,3 +11,5 @@ First thing we need to do is enable PowerShell scripts to run - We need to set t
 
 You are now ready to roll.
 
+This is after the reworking - 10:29 2012-07-01
+
