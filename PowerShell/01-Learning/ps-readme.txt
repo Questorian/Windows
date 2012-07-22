@@ -1,7 +1,7 @@
 PowerShell
 ----------
 
-First thing we need to do is enable PowerShell scripts to run - We need to set the local PowerShell execution policy. So we need to open an administrative shell, and then start 'powershell.exe' within that:
+First thing we need to do is enable PowerShell scripts to run - We need to set the local PowerShell execution policy. So we need to open an administrative shell, and then start 'powershell.exe' within that shell issue the following comands:
 
     get-ExecutionPolicy
     set-ExecutionPolicy Unrestricted
@@ -9,7 +9,5 @@ First thing we need to do is enable PowerShell scripts to run - We need to set t
     # check again
     get-ExecutionPolicy
 
-You are now ready to roll.
-
-This is after the reworking - 10:29 2012-07-01
+You are now ready to roll - start scripting!
 
